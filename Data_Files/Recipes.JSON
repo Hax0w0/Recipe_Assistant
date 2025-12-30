@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Chicken Pot Pie",
+    "ingredients": [{
+                     "name": "rotisserie chicken",
+                     "quantity": "2.5",
+                     "unit": "cups"
+                     },
+                     {
+                     "name": "alfredo sauce",
+                     "quantity": "16",
+                     "unit": "ounces"
+                     },
+                     {
+                     "name": "frozen mixed vegetables",
+                     "quantity": "2",
+                     "unit": "cups"
+                     },
+                     {
+                     "name": "frozen puff pastry",
+                     "quantity": "1",
+                     "unit": "sheets"
+                     }],
+    "steps": {
+                "1": "Preheat the oven to 400°F.",
+                "2": "In a 10-inch ovenproof skillet, combine the chicken, Alfredo sauce, and vegetables.",
+                "3": "Add 1/4 cup water to the Alfredo sauce jar, screw the lid on, and shake, then add to the chicken mixture.",
+                "4": "Bring to a simmer over medium heat and cook until heated through, about 3 minutes.",
+                "5": "On a lightly floured countertop, gently roll out the puff pastry so it is just large enough to cover the top of the skillet with a little overhang.",
+                "6": "Drape the puff pastry over the skillet and cut 4 slits in it to allow the steam to vent.",
+                "7": "Bake until the puff pastry is golden brown and the filling is bubbling, 25 to 30 minutes.",
+                "8": "Let cool for a few minutes before serving."
+              },
+    "nutrition_facts": {
+                        "calories": "642",
+                        "fat": "45",
+                        "carbs": "32",
+                        "protein": "26"
+                        }
+  },
+  {
+    "name": "Dumpling Bake",
+    "ingredients": [{
+                     "name": "peanut butter",
+                     "quantity": "3",
+                     "unit": "tablespoons"
+                     },
+                    {
+                     "name": "soy sauce",
+                     "quantity": "2",
+                     "unit": "tablespoons"
+                     },
+                    {
+                     "name": "hot water",
+                     "quantity": "1",
+                     "unit": "cups"
+                     },
+                    {
+                     "name": "chili oil",
+                     "quantity": "1",
+                     "unit": "tablespoons"
+                     },
+                    {
+                     "name": "baby spinach",
+                     "quantity": "1",
+                     "unit": "cups"
+                     },
+                    {
+                     "name": "frozen dumplings",
+                     "quantity": "16",
+                     "unit": "None"
+                     }],
+    "steps": {
+                "1": "Preheat the oven to 400°F.",
+                "2": "Add the peanut butter, soy sauce, water, and chili oil to a resealable jar and shake vigorously until smooth.",
+                "3": "Pour the sauce into a 9x13-inch baking dish and sprinkle the spinach over.",
+                "4": "Place the dumplings on top, leaving some room between them to allow them to cook properly.",
+                "5": "Cover with foil and bake for 15 minutes.",
+                "6": "Remove the foil and bake for 5 to 10 minutes longer or until the dumplings are hot all the way through and crispy on top, and the sauce has thickened a bit",
+                "7": "Remove from the oven and use a spoon to stir the sauce well and coat the dumplings.",
+                "8": "Garnish as desired and serve immediately."
+              },
+    "nutrition_facts": {
+                        "calories": "728",
+                        "fat": "33",
+                        "carbs": "84",
+                        "protein": "27"
+                        }
+  },
+  {
+    "name": "Mississippi Pot Roast",
+    "ingredients": [{
+                     "name": "chuck roast",
+                     "quantity": "3",
+                     "unit": "pounds"
+                     },
+                    {
+                     "name": "hidden valley ranch dip mix",
+                     "quantity": "1",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "au jus gravy mix",
+                     "quantity": "1",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "peperoncini",
+                     "quantity": "8",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "peperoncini juice",
+                     "quantity": "8",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "unsalted butter",
+                     "quantity": "0.5",
+                     "unit": "cups"
+                     }],
+    "steps": {
+                "1": "Set a slow cooker to high.",
+                "2": "Add the chuck roast and sprinkle the packets of ranch mix and gravy mix directly on top of the roast.",
+                "3": "Then add the peperoncini and their juices to the slow cooker, surrounding the base of the roast.",
+                "4": "Place the stick of butter directly on top of the roast.",
+                "5": "Cover the slow cooker with the lid and cook on high for 6 hours.",
+                "6": "Serve over mashed potatoes or rice."
+              },
+    "nutrition_facts": {
+                        "calories": "537",
+                        "fat": "44",
+                        "carbs": "4",
+                        "protein": "32"
+                        }
+  },
+  {
+    "name": "Ravioli Lasagna",
+    "ingredients": [{
+                     "name": "nonstick cooking spray",
+                     "quantity": "1",
+                     "unit": ""
+                     },
+                    {
+                     "name": "mild italian sausage",
+                     "quantity": "1",
+                     "unit": "pounds"
+                     },
+                    {
+                     "name": "marinara sauce",
+                     "quantity": "24",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "cheese ravioli",
+                     "quantity": "20",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "italian cheese blend",
+                     "quantity": "1",
+                     "unit": "cups"
+                     }],
+    "steps": {
+               "1": "Preheat the oven to 400°F.",
+               "2": "Coat a 9x13-inch baking dish with nonstick spray",
+               "3": "Heat a large skillet over medium-high heat.",
+               "4": "Add the sausage and cook, breaking it up with a spatula and stirring regularly, until cooked through, about 8 minutes.",
+               "5": "Add the marinara sauce and cook until warmed through, 2 minutes longer.",
+               "6": "Remove the pan from the heat to cool for 2 to 3 minutes.",
+               "7": "Spread 1/2 cup of the sausage mixture and 1/3 of the ravioli into the bottom of the prepared pan",
+               "8": "Continue layering the sausage sauce mixture with the ravioli, making 3 layers of ravioli and a final layer of sauce.",
+               "9": "Sprinkle on the Italian cheese blend.",
+               "10": "Cover the dish with foil and bake for 30 minutes.",
+               "11": "Remove the foil and bake until the cheese is lightly browned and the sauce is bubbly, an additional 10 to 15 minutes"
+              },
+    "nutrition_facts": {
+                        "calories": "373",
+                        "fat": "22",
+                        "carbs": "23",
+                        "protein": "19"
+                        }
+  },
+  {
+    "name": "Tortilla Soup",
+    "ingredients": [{
+                     "name": "olive oil",
+                     "quantity": "2",
+                     "unit": "teaspoons"
+                     },
+                    {
+                     "name": "large red bell pepper",
+                     "quantity": "1",
+                     "unit": ""
+                     },
+                    {
+                     "name": "tortilla chips",
+                     "quantity": "1",
+                     "unit": "cups"
+                     },
+                    {
+                     "name": "salsa",
+                     "quantity": "16",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "vegetable broth",
+                     "quantity": "4",
+                     "unit": "cups"
+                     },
+                    {
+                     "name": "black beans",
+                     "quantity": "15",
+                     "unit": "ounces"
+                     },
+                    {
+                     "name": "salt",
+                     "quantity": "",
+                     "unit": ""
+                     }],
+    "steps": {"1": "In a large pot over medium-high heat, add the olive oil and red bell pepper. Cook, stirring occasionally, until softened but not browned, about 4 minutes.",
+               "2": "Add black beans, salsa, and vegetable broth to the pot.",
+               "3": "Bring to a simmer and cook until the ingredients are heated through, 5 to 7 minutes. Taste and add salt as needed.",
+               "4": "Serve with crumbled tortilla chips."
+              },
+    "nutrition_facts": {
+                        "calories": "206",
+                        "fat": "5",
+                        "carbs": "34",
+                        "protein": "9"
+                        }
+  }
+]
